@@ -20,6 +20,7 @@ capabilities.
 ## Methodological Framework
 A GIS-based multi-criteria evaluation framework was adopted to delineate potential
 groundwater harvesting zones.
+[View methodological framework diagram →](diagrams/Methodology.png)
 
 ### Analytical Hierarchy Process (AHP)
 
@@ -51,3 +52,4 @@ weighted overlay technique.
 
 ## Key Output
 • Groundwater potential zoning map identifying areas of varying suitability
+![Groundwater Potential Zones](figures/Groundwater_potential_zones.png)
