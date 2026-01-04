@@ -1,5 +1,7 @@
 # GIS-Based Delineation of Potential Groundwater Harvesting Zones
-**Academic GIS Project – RMIT University**
+**_© Chathurika Thilakarathna.  
+Academic GIS Project completed as part of postgraduate coursework at RMIT University._**
+
 
 ## Overview
 Increasing groundwater demand and climate variability have placed growing pressure on global groundwater resources. This project applies a GIS-based approach to identify potential groundwater harvesting zones by integrating seven hydrogeological and environmental factors—lithology, geomorphology, land use, slope, drainage density, rainfall, and soil—using the Analytical Hierarchy Process (AHP).
