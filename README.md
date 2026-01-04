@@ -7,9 +7,7 @@
 Increasing groundwater demand and climate variability have placed growing pressure on global groundwater resources. This project applies a GIS-based approach to identify potential groundwater harvesting zones by integrating seven hydrogeological and environmental factors—lithology, geomorphology, land use, slope, drainage density, rainfall, and soil—using the Analytical Hierarchy Process (AHP).
 
 ## Project Context
-This work was completed as part of a postgraduate GIS unit at RMIT University and
-is shared here in a curated form to demonstrate methodological and analytical
-capabilities.
+This work was completed as part of a postgraduate GIS unit at RMIT University and is shared here in a curated form. The project demonstrates the innovative use of GIS integrated with the Analytical Hierarchy Process (AHP) to support spatial decision-making, particularly for identifying potential groundwater harvesting zones through multi-criteria analysis.
 
 ## Methodology (Summary)
 • Selection of groundwater-influencing parameters  
