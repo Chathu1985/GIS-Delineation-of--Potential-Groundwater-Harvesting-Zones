@@ -1,6 +1,6 @@
-# GIS-Based Delineation of Potential Groundwater Harvesting Zones
-###Case study: East Gippsland Catchment Area###
 **_© Chathurika Thilakarathna — Academic GIS Project (RMIT University)._**
+# GIS-Based Delineation of Potential Groundwater Harvesting Zones
+**Case study: East Gippsland Catchment Area**
 
 
 ## Overview
