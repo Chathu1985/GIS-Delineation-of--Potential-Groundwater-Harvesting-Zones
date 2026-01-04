@@ -1,6 +1,5 @@
 # GIS-Based Delineation of Potential Groundwater Harvesting Zones
-**_© Chathurika Thilakarathna.  
-Academic GIS Project completed as part of postgraduate coursework at RMIT University._**
+**_© Chathurika Thilakarathna — Academic GIS Project (RMIT University)._**
 
 
 ## Overview
